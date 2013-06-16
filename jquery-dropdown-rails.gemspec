@@ -4,7 +4,7 @@ require "jquery-dropdown-rails/version"
 
 Gem::Specification.new do |gem|
   gem.name         = "jquery-dropdown-rails"
-  gem.version      = JqueryDropdownRails::VERSION
+  gem.version      = Jquery::Dropdown::Rails::VERSION
 
   gem.description  = "Simple jquery-dropdown for rails"
   gem.summary      = gem.description
