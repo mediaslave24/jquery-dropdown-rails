@@ -1,5 +1,5 @@
 $:.unshift File.expand_path('../lib', __FILE__)
-require "jquery-dropdown-rails/version"
+require "jquery/dropdown/rails/version"
 # encoding:utf-8
 
 Gem::Specification.new do |gem|
